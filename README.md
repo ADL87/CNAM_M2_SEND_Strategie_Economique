@@ -1,4 +1,4 @@
-Ce dépot agrège les différents applications théoriques de stratégies économiques que j'ai réalisé durant le Master 2:
+Ce dépot agrège les différents applications théoriques en stratégie économique que j'ai réalisé durant le Master 2:
 
 
 <li> Incitations et Design Economique (ESD209) >> Évaluation des différentes politiques d’innovation en France <code>ESD209_politiques_innovation_France</code></li>

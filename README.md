@@ -1,4 +1,4 @@
-Ce dépôt agrège les différents applications théoriques de stratégies économiques que j'ai réalisé durant le Master 2 :
+Ce dépôt agrège les différents applications théoriques de stratégies économiques que j'ai réalisé durant le Master 2.
 
 <li> Incitations et Design Economique (ESD209) >> Projet personnel: "Évaluation des différentes politiques d’innovation en France" <code>ESD209_politiques_innovation_France</code>.</li><br>
 <li> Stratégie et marché (EPT210) >> Projet personnel: "L'échec du rachat d'ARM par Nvidia" <code>EPT210_nvidia_arm</code>.</li><br>

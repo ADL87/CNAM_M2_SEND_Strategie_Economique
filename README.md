@@ -9,4 +9,4 @@ La littérature situés dans <code>Annexe</code> : <code>6.2_Chacko_Johnson_et_a
 <li> Relations économiques internationales et intelligence économique (DVE205) >> Examen : Etude de deux documents (A & B) et réflexion <code>DVE205_rendu_examen</code>.<em><br>
 Les sujets d'examens situés dans <code>Annexe</code> : <code>DVE205_examen_DEVOIR_A</code> & <code>DVE205_examen_DEVOIR_B</code></em>.</li><br>
 <li> Stratégie de recherche d'information (EPT205) >> Evaluation : Construire la réponse d’un institut de sondages à un brief spécifique.<br>
-<em> L'énoncé est situé dans <code>Annexe</code> : <code>EPT205_Evaluation_ifop</code><em></li><br>
+<em> L'énoncé est situé dans <code>Annexe</code> : <code>EPT205_Evaluation_ifop</code></em>.</li>

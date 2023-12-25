@@ -2,7 +2,6 @@ Ce dépôt agrège les différents applications théoriques de stratégies écon
 
 <li> Incitations et Design Economique (ESD209) >> Projet personnel: "Évaluation des différentes politiques d’innovation en France" <code>ESD209_politiques_innovation_France</code></li>
 <br/>
-<br>
 <li> Stratégie et marché (EPT210) >> Projet personnel: "L'échec du rachat d'ARM par Nvidia" <code>EPT210_nvidia_arm</code>
 <li> Economie numérique (EPT211) >> Projet personnel: "Les ingrédients du succès de Netflix" <code>EPT211_netflixitation</code> </li>
 <li> Analyse sectorielle (EPT204) >> Projet personnel (effectué en binôme): Programmation informatique 62.01Z <code>EPT204_naf_6201Z</code> </li>
